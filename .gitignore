@@ -4,6 +4,8 @@
 *.sln.docstates
 /.vale.ini
 /.vale-styles
+/MD.AIE.Testing
+/config.ini
 
 # Build results
 [Dd]ebug/

@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD.AIE.Library", "MD.AIE.Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD.AIE.UserInterface.Windows", "MD.AIE.UserInterface.Windows\MD.AIE.UserInterface.Windows.csproj", "{B7E13B29-8C83-4426-97FB-3673DB1CA3C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD.AIE.Testing", "MD.AIE.Testing\MD.AIE.Testing.csproj", "{07112C34-CD92-444E-8F73-7A17F1E7AD6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B7E13B29-8C83-4426-97FB-3673DB1CA3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7E13B29-8C83-4426-97FB-3673DB1CA3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7E13B29-8C83-4426-97FB-3673DB1CA3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07112C34-CD92-444E-8F73-7A17F1E7AD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07112C34-CD92-444E-8F73-7A17F1E7AD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07112C34-CD92-444E-8F73-7A17F1E7AD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07112C34-CD92-444E-8F73-7A17F1E7AD6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
